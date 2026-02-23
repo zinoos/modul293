@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 20px;
+}
+
+h1 {
+    color: darkred;
+}
+
+img {
+    width: 300px;
+    margin: 10px 0;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
